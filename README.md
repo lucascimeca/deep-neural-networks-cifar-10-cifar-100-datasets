@@ -1,4 +1,4 @@
-# Deep Neural Networks - CIFAR-10/CIFAR-100 datasets
+# Deep Neural Networks - CIFAR-10/CIFAR-100 datasets - 2016
 
 Author: Luca Scimeca
 
